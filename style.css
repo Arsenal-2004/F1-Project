@@ -1,12 +1,27 @@
 body {
-   background-color: black;
-   font-family: Arial, Helvetica, sans-serif;
+   background-color: rgba(11, 170, 233, 0.384);
+   font-family: 'Times New Roman', Times, serif;
    font-size: 22px;
-   
+   font-style: italic;
+   color: rgb(0, 0, 0);
+   text-align: center;
+   text-decoration: underline;
+   text-transform: capitalize;
+   line-height: 1.8;
+   letter-spacing: 1px;
+
 }
 #ahly .omar  {
     font-weight: 100;
 }
  #ahly .Arsenal  {
     font-weight: 900;
+ }
+ 
+ #ahly h1 {
+   font-size: 50px;
+   color: rgb(223, 21, 21);
+ }
+ #ahly {
+   word-spacing: 3.2px;
  }
