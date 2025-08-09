@@ -3,8 +3,8 @@ body {
    font-family: 'Times New Roman', Times, serif;
    font-size: 22px;
    font-style: italic;
-   color: rgb(0, 0, 0);
    text-align: center;
+   color: rgb(0, 0, 0);
    text-decoration: underline;
    text-transform: capitalize;
    line-height: 1.8;
@@ -24,4 +24,34 @@ body {
  }
  #ahly {
    word-spacing: 3.2px;
+ }
+ /* football */
+ .fb {
+     padding: 40px;
+     border: 40px;
+     margin: 40px;
+     box-sizing: border-box;
+     font-weight: bolder;
+     text-transform: uppercase;
+     letter-spacing: 1.6px;
+     display: inline-block;   
+     background-image:url("club.jpg") ;  
+     color: rgb(255, 0, 0);
+     background-size:cover;
+     background-position: center;
+     background-attachment: fixed;
+     border-radius: 10%;
+     opacity: 0.8;
+     cursor: pointer;
+
+ }
+ 
+ .ai {
+  display: inline-block;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  padding: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+
  }
