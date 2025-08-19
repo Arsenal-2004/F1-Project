@@ -1,7 +1,6 @@
 body {
    background-color: rgba(11, 170, 233, 0.384);
-   font-family: 'Times New Roman', Times, serif;
-   font-size: 22px;
+   font-size: 20px;
    font-style: italic;
    text-align: center;
    color: rgb(0, 0, 0);
@@ -54,4 +53,23 @@ body {
   border-radius: 50%;
   cursor: pointer;
 
+ }
+ .oh {
+  color: red;
+  padding: 25px;
+  border-radius: 9%;
+  box-sizing: border-box;
+  border: 80px;
+  font-size: 80px;
+  text-align: center;
+  width: 100%;
+  height:100%;
+  max-width: 650px;
+  max-height: 650px;
+  display: block;
+  margin-left: 60px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-right: 508px;
+  outline :8.4px solid rgb(0, 155, 0) ;
  }
